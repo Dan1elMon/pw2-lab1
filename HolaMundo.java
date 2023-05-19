@@ -1,8 +1,8 @@
 public class HolaMundo
 {
     public static void main(String args[]) {
-    
-    	System.out.println ("Bienvendo al curso.");
+    	String nombre = "Daniel";
+    	System.out.println ("Bienvendo al curso "+nombre);
 
     }
 }
